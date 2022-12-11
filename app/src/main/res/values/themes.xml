@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.CvApp" parent="Theme.AppCompat.DayNight">
+    <style name="Theme.AppCompat.Light" parent="Theme.AppCompat.DayNight">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#009688</item>
         <item name="colorPrimaryVariant">#00796B</item>

@@ -28,7 +28,7 @@ class WebActivity : AppCompatActivity() {
 
         binding.toolbar.title = title
 
-        setSupportActionBar(binding.toolbar)
+        //setSupportActionBar(binding.toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.setDisplayShowHomeEnabled(true)
 
